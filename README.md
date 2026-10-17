@@ -1,6 +1,6 @@
 # DevOps_Lab3_Practice
 
-This line was added locally.
+This local line was updated for rebase practice.
 
 This line was added remotely from GitHub.
 
